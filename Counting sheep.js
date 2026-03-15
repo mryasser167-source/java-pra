@@ -33,4 +33,4 @@ let result = function () {
   });
   return counter;
 };
-console.log(result());
+console.log(result);
