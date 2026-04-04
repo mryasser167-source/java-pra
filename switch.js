@@ -22,4 +22,4 @@ function ya(num) {
       return `wrong`;
   }
 }
-console.log(ya(7));
+console.log(ya(6));
